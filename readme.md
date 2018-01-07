@@ -15,7 +15,7 @@
   Going to meet with Habib to see if this can be derived from wants of Open Denton and/or upcoming
   smart cities projects.
 
-### Links
+##### Links
 
 | Library              | Description                                                | Links                                                                                                                               |
 | :------------------- | :--------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,3 +46,17 @@
 [Auth0]: https://auth0.com/
 [Webpack]: https://webpack.js.org/
 [Home assistant]: https://home-assistant.io/
+
+
+##### :green_book: Learning Resources
+
+| Resource | Description |
+| :------------- | :------------- |
+| [Robust Client-Side JavaScript](https://molily.de/robust-javascript/)       | A dang-near complete, single page developer guide    |
+| [The React Event System Explained](https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2?ref=reddit) | Great overview for React and React-Native |
+| [How To GraphQL](https://www.howtographql.com/) | An :star:excellent:star: GraphQL learning resource |
+
+
+##### Other
+
+- Axios, popular XHR library, seeking open source maintainer. [link](http://www.mattzabriskie.com/blog/axios-help-wanted)
