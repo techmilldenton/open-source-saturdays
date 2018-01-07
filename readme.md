@@ -33,16 +33,16 @@
 | **[Webpack]**        | A module bundler asset pipeline.                           | ([docs](https://webpack.js.org/concepts/) / [:octocat:](https://github.com/webpack/webpack))                                        |
 | **[Home Assistant]** | Open-source :house: automation.                            | ([docs](https://home-assistant.io/docs/) / [:octocat:](https://github.com/home-assistant/home-assistant))                           |
 
-[React]: 'https://reactjs.org/'
-[React-native]: 'https://facebook.github.io/react-native/'
-[Expo]: 'https://expo.io/'
-[Graphql]: 'http://graphql.org/'
-[Graph.cool]: 'http://www.graph.cool/'
-[Apollo]: 'https://www.apollographql.com/'
-[Graphile]: 'https://www.graphile.org/'
-[Sanity.io]: 'https://www.sanity.io/'
-[Meteor]: 'https://www.meteor.com/'
-[Hapi]: 'https://hapijs.com/'
-[Auth0]: 'https://auth0.com/'
-[Webpack]: 'https://webpack.js.org/'
-[Home assistant]: 'https://home-assistant.io/'
+[React]: https://reactjs.org/
+[React-native]: https://facebook.github.io/react-native/
+[Expo]: https://expo.io/
+[Graphql]: http://graphql.org/
+[Graph.cool]: http://www.graph.cool/
+[Apollo]: https://www.apollographql.com/
+[Graphile]: https://www.graphile.org/
+[Sanity.io]: https://www.sanity.io/
+[Meteor]: https://www.meteor.com/
+[Hapi]: https://hapijs.com/
+[Auth0]: https://auth0.com/
+[Webpack]: https://webpack.js.org/
+[Home assistant]: https://home-assistant.io/
