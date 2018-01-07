@@ -17,17 +17,17 @@
 
 ### Links
 
-| Library            | Description                         | Links                            |
-| :----------------- | :---------------------------------- | :------------------------------- |
-| **React**          | modern view library.                | ([website](https://reactjs.org/) | [docs](https://reactjs.org/docs/hello-world.html) | [:octocat:](https://github.com/facebook/react/)) |
-| **React-Native**   | cross-platform mobile apps.         | (website                         | docs | :octocat:) |
-| **Expo**           | Dev tools and React-Native sandbox. | (website                         | docs | :octocat:) |
-| **GraphQL**        | Graph query language, next REST.    | (website                         | docs | :octocat:) |
-| **Graph.cool**     | Services & tools for GraphQL.       | (website                         | docs | :octocat:) |
-| **Apollo**         | Cool tools for GQL client/server.   | (website                         | docs | :octocat:) |
-| **Sanity.io**      | Fully featured CMS & scaffold.      | (website                         | docs | :octocat:) |
-| **Meteor**         | Full-stack framework, DX-focused.   | (website                         | docs | :octocat:) |
-| **Hapi**           | Configurable, smooth API framework. | (website                         | docs | :octocat:) |
-| **Auth0**          | OAuth-as-a-service + integrations.  | (website                         | docs | :octocat:) |
-| **Webpack**        | A module bundler asset pipeline.    | (website                         | docs | :octocat:) |
-| **Home Assistant** | Open-source :house: automation.     | (website                         | docs | :octocat:) |
+| Library            | Description                         | Links                                                                                                                                   |
+| :----------------- | :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **React**          | modern view library.                | ([website](https://reactjs.org/) / [docs](https://reactjs.org/docs/hello-world.html) / [:octocat:](https://github.com/facebook/react/)) |
+| **React-Native**   | cross-platform mobile apps.         | (website / docs / :octocat:)                                                                                                            |
+| **Expo**           | Dev tools and React-Native sandbox. | (website / docs / :octocat:)                                                                                                            |
+| **GraphQL**        | Graph query language, next REST.    | (website / docs / :octocat:)                                                                                                            |
+| **Graph.cool**     | Services & tools for GraphQL.       | (website / docs / :octocat:)                                                                                                            |
+| **Apollo**         | Cool tools for GQL client/server.   | (website / docs / :octocat:)                                                                                                            |
+| **Sanity.io**      | Fully featured CMS & scaffold.      | (website / docs / :octocat:)                                                                                                            |
+| **Meteor**         | Full-stack framework, DX-focused.   | (website / docs / :octocat:)                                                                                                            |
+| **Hapi**           | Configurable, smooth API framework. | (website / docs / :octocat:)                                                                                                            |
+| **Auth0**          | OAuth-as-a-service + integrations.  | (website / docs / :octocat:)                                                                                                            |
+| **Webpack**        | A module bundler asset pipeline.    | (website / docs / :octocat:)                                                                                                            |
+| **Home Assistant** | Open-source :house: automation.     | (website / docs / :octocat:)                                                                                                            |
